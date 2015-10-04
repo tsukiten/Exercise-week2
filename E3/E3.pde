@@ -6,10 +6,10 @@ void setup()
 {
   size(640,480);
   background(255);  
-  imgx =loadImage("1.jpg"); 
-  imgy =loadImage("2.jpg");
-  imgw =loadImage("3.jpg");
-  imgz =loadImage("4.jpg");
+  imgx =loadImage("0.jpg"); 
+  imgy =loadImage("1.jpg");
+  imgw =loadImage("2.jpg");
+  imgz =loadImage("3.jpg");
 }
 
 
